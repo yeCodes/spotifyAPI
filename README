@@ -3,7 +3,7 @@ These scripts use the Spotify web API to do the following:
   - To change Spotify's currently playing track to the next track in the queue
   - To get the list of the user's 20 mostly recently liked songs and to extract the attributes of these songs (including factors such as danceabliltiy and liveliness)
   
-  Important: 
+  ### Important: 
   - To run these commands, the user must first generate authentication tokens for the relevant command in the 'Spotify for Developers' web console - https://developer.spotify.com/console/get-users-currently-playing-track/
   
   - This token expires after an hour for security reasons. After this, another token must be generated and pasted into the relevant part of the code.
